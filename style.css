@@ -1,0 +1,31 @@
+body{
+        background-color:mediumspringgreen;
+}
+
+h1,h2{
+    color:rgb(23, 121, 99);
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    justify-content: space-around;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.grid{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.origami{
+    padding: 0px 80px 50px 80px;
+}
+
+
